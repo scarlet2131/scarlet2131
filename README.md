@@ -3,7 +3,7 @@
 
 Welcome to my GitHub profile! I am a passionate software engineer currently working at Tekion Corp, specializing in backend development. I have a rich background in software engineering, DevOps, and full-stack development, with a keen interest in AI/ML. I am also a proud leader of the Google Developer Student Club at Lambton College.
 
-<img src='https://github-readme-stats.vercel.app/api?username=scarlet2131&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515'>
+<img src='https://github-readme-stats.vercel.app/api?username=scarlet2131&&show_icons=true&title_color=0000FF&icon_color=FFD700&text_color=000000&bg_color=FFFFFF'>
 
 **Highlights:**
 - **🎓 Education:** 
