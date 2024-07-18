@@ -15,3 +15,7 @@
 ### CodeChef Rating Card - mr_2131
 <img width='50%' src = 'https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2Fany_text-1587-blue?logo=codechef&label=CodeChef'>
 
+### Leetcode Rating Card - mr_233
+<img width='50%' src = 'https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2Fany_text-1583-blue?logo=leetcode&label=Leetcode'>
+
+
