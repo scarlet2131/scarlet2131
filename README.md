@@ -27,29 +27,28 @@ Welcome to my GitHub profile! I am a passionate software engineer currently work
 - **Web Development Intern** at CertCube
 
 **Coding Profiles:**
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 20px;">
-
-  <div style="border: 1px solid #ddd; padding: 10px; box-shadow: 0 4px 8px 0 rgba(0, 128, 0, 0.2);">
-    <h3>CodeForces Rating Card - mr_2131</h3>
-    <img src='https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Dmr_2131&query=%24.result%5B0%5D.rating&logo=codeforces&label=Codeforces&color=green'>
-  </div>
-
-  <div style="border: 1px solid #ddd; padding: 10px; box-shadow: 0 4px 8px 0 rgba(0, 128, 0, 0.2);">
-    <h3>CodeChef Rating Card - mr_2131</h3>
-    <img src='https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2Fany_text-1587-blue?logo=codechef&label=CodeChef'>
-  </div>
-
-  <div style="border: 1px solid #ddd; padding: 10px; box-shadow: 0 4px 8px 0 rgba(0, 128, 0, 0.2);">
-    <h3>Leetcode Rating Card - mr_233</h3>
-    <img src='https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2Fany_text-1583-yellow?logo=leetcode&label=Leetcode'>
-  </div>
-
-  <div style="border: 1px solid #ddd; padding: 10px; box-shadow: 0 4px 8px 0 rgba(0, 128, 0, 0.2);">
-    <h3>Hackerearth Rating Card - mr_233</h3>
-    <img src='https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2Fany_text-1514-red?logo=hackerearth&label=Hackerearth'>
-  </div>
-
-</div>
+<table>
+  <tr>
+    <td>
+      <h3>CodeForces Rating Card - mr_2131</h3>
+      <img src='https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Dmr_2131&query=%24.result%5B0%5D.rating&logo=codeforces&label=Codeforces&color=green'>
+    </td>
+    <td>
+      <h3>CodeChef Rating Card - mr_2131</h3>
+      <img src='https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2Fany_text-1587-blue?logo=codechef&label=CodeChef'>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>Leetcode Rating Card - mr_233</h3>
+      <img src='https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2Fany_text-1583-yellow?logo=leetcode&label=Leetcode'>
+    </td>
+    <td>
+      <h3>Hackerearth Rating Card - mr_233</h3>
+      <img src='https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2Fany_text-1514-red?logo=hackerearth&label=Hackerearth'>
+    </td>
+  </tr>
+</table>
 
 **Connect with me:**
 - [LinkedIn](https://www.linkedin.com/in/monisharanjan)
