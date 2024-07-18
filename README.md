@@ -15,10 +15,10 @@
 <img width='10%' src = 'https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2Fany_text-1587-blue?logo=codechef&label=CodeChef'>
 
 ### Leetcode Rating Card - mr_233
-<img width='10%' src = 'https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2Fany_text-1583-blue?logo=leetcode&label=Leetcode'>
+<img width='10%' src = 'https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2Fany_text-1583-yellow?logo=leetcode&label=Leetcode'>
 
 ### Hackerearth Rating Card - mr_233
-<img width='10%' src = 'https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2Fany_text-1514-blue?logo=hackerearth&label=Hackerearth'>
+<img width='10%' src = 'https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2Fany_text-1514-red?logo=hackerearth&label=Hackerearth'>
 
 
 
