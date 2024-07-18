@@ -26,23 +26,22 @@ Welcome to my GitHub profile! I am a passionate software engineer currently work
 - **Software Engineer Intern** at Smart Doctors
 - **Web Development Intern** at CertCube
 
-**Projects:**
-- **Moodify:** Music recommendation system using Spotify API and OpenAI’s ChatGPT
-- **Integrated Dealership Database Upgrade:** Efficient system integration for MySQL and MongoDB
-- **Centralized Dealership Payment System:** Kafka-based asynchronous payment processing
-
 **Coding Profiles:**
-### CodeForces Rating Card - mr_2131
-<img width='10%' src='https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Dmr_2131&query=%24.result%5B0%5D.rating&logo=codeforces&label=Codeforces&color=green'>
-
-### CodeChef Rating Card - mr_2131
-<img width='10%' src = 'https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2Fany_text-1587-blue?logo=codechef&label=CodeChef'>
-
-### Leetcode Rating Card - mr_233
-<img width='10%' src = 'https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2Fany_text-1583-yellow?logo=leetcode&label=Leetcode'>
-
-### Hackerearth Rating Card - mr_233
-<img width='10%' src = 'https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2Fany_text-1514-red?logo=hackerearth&label=Hackerearth'>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><img width='200' src='https://img.shields.io/badge/dynamic/json?url=https://codeforces.com/api/user.info?handles=mr_2131&query=$.result[0].rating&logo=codeforces&label=Codeforces&color=blue'></td>
+      <td align="center"><img width='200' src='https://img.shields.io/badge/dynamic/json?url=https://leetcode.com/api/users/mr_233&query=$.result[0].rating&logo=leetcode&label=LeetCode&color=yellow'></td>
+    </tr>
+    <tr>
+      <td align="center"><img width='200' src='https://img.shields.io/badge/dynamic/json?url=https://codechef.com/api/users/mr_2131&query=$.result[0].rating&logo=codechef&label=CodeChef&color=orange'></td>
+      <td align="center"><img width='200' src='https://img.shields.io/badge/dynamic/json?url=https://www.hackerrank.com/api/profile/mr_233&query=$.result[0].rating&logo=hackerrank&label=HackerRank&color=green'></td>
+    </tr>
+    <tr>
+      <td align="center"><img width='200' src='https://img.shields.io/badge/dynamic/json?url=https://www.hackerearth.com/api/users/monisha&query=$.result[0].rating&logo=hackerearth&label=HackerEarth&color=red'></td>
+    </tr>
+  </table>
+</div>
 
 **Connect with me:**
 - [LinkedIn](https://www.linkedin.com/in/monisharanjan)
