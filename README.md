@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I am a passionate software engineer currently work
 
 **Highlights:**
 - **🎓 Education:** 
-  - Post Grad. Certificate in Full Stack Software Development from Lambton College, Toronto (3.608 GPA)
+  - Post Grad. Certificate in Full Stack Software Development from Lambton College, Toronto (3.61 GPA)
   - B.Tech in Computer Science from IIIT Guwahati (7.75 CGPA)
 - **🏆 Honors & Awards:**
   - 20th Place, She codes Indeed - All India Rank
