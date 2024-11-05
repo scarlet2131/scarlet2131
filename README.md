@@ -5,6 +5,8 @@ Welcome to my GitHub profile! I am a passionate software engineer currently work
 
 <img src='https://github-readme-stats.vercel.app/api?username=scarlet2131&&show_icons=true&title_color=0000FF&icon_color=FFD700&text_color=000000&bg_color=FFFFFF'>
 
+I write content on [Medium](https://medium.com/@ranjan.monisha233) and [GeeksforGeeks](https://www.geeksforgeeks.org/user/ranjanmonisha233/contributions/) to foster community learning.
+
 **Highlights:**
 - **🎓 Education:** 
   - Post Grad. Certificate in Full Stack Software Development from Lambton College, Toronto (3.61 GPA)
